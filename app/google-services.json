@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158232538932",
+    "firebase_url": "https://camaraexample-63754.firebaseio.com",
+    "project_id": "camaraexample-63754",
+    "storage_bucket": "camaraexample-63754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158232538932:android:2d3fe4fad8ae3f2f",
+        "android_client_info": {
+          "package_name": "cl.mind.camaraexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158232538932-d7innomrjr9bmos86q6p94ce9s8utogr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.mind.camaraexample",
+            "certificate_hash": "f8629bcd2919b343b2f2d49a0db7bf95963c5672"
+          }
+        },
+        {
+          "client_id": "158232538932-flj0k7p595ca97srv9fgguuqgkk87m8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCENx0I3tIwswyQVWqlcAFmGzuGc4Nj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158232538932-flj0k7p595ca97srv9fgguuqgkk87m8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
